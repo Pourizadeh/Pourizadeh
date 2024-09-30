@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pourizadeh
-- master 1 setsis à l'université Clermont Auvergne
-- c'est pour le tp du cours gestion de projet.
-- 👀 I’m interested in systèmes embarqués et Python. 
+- master 1 systemes embarquees pour le traitement du signal du son et de l'image.
+- 👀 I’m interested in systèmes embarqués and Python programming language. 
 - 🌱 I’m currently learning Arduino and signal processing.
 - 📫 How to reach me : mz.pourizadeh@gmail.com
 

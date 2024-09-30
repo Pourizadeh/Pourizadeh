@@ -2,10 +2,9 @@
 - master 1 setsis à l'université Clermont Auvergne
 - c'est pour le tp du cours gestion de projet.
 - 👀 I’m interested in systèmes embarqués et Python. 
-- 🌱 I’m currently learning Arduino and signsl processing.
+- 🌱 I’m currently learning Arduino and signal processing.
 - 📫 How to reach me : mz.pourizadeh@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Pourizadeh/Pourizadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

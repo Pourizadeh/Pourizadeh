@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pourizadeh
 - master 1 systemes embarquees pour le traitement du signal du son et de l'image.
-- 👀 I’m interested in systèmes embarqués and Python programming language. 
-- 🌱 I’m currently learning Arduino and signal processing.
+- 👀 I’m interested in Embedded Systems and Python programming language. 
+- 🌱 I’m currently learning Arduino,STM32 and Signal Processing.
 - 📫 How to reach me : mz.pourizadeh@gmail.com
 
 

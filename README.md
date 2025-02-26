@@ -3,6 +3,7 @@
 - 👀 I’m interested in Embedded Systems and Python programming language. 
 - 🌱 I’m currently learning Arduino,STM32 and Signal Processing.
 - 📫 How to reach me : mz.pourizadeh@gmail.com
+- 
 My detailed resume is available here.
 
 <!---
